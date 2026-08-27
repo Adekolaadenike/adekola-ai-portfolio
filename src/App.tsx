@@ -139,9 +139,14 @@ export default function Home() {
               <a className="button button-primary" href="#work">
                 Explore selected work <ArrowDown size={16} aria-hidden="true" />
               </a>
-              <a className="button button-secondary" href="mailto:adenikeadekola2017@gmail.com">
-                <Mail size={16} aria-hidden="true" /> Email me
-              </a>
+              <a
+  className="button button-secondary"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=adenikeadekola2017@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  <Mail size={16} aria-hidden="true" /> Email me
+</a>
             </div>
 
             <p className="availability">
@@ -426,9 +431,14 @@ export default function Home() {
           <p className="section-label">Let&apos;s build what matters</p>
           <h2>Have an AI problem worth making tangible?</h2>
           <p>I&apos;m open to AI accelerator, product and innovation opportunities.</p>
-          <a className="button button-primary" href="mailto:adenikeadekola2017@gmail.com">
-            Start a conversation <Mail size={16} aria-hidden="true" />
-          </a>
+          <a
+  className="button button-primary"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=adenikeadekola2017@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  Start a conversation <Mail size={16} aria-hidden="true" />
+</a>
         </div>
       </section>
 
@@ -439,7 +449,13 @@ export default function Home() {
             <span>AI product builder · Product designer</span>
           </div>
           <div className="footer-links">
-            <a href="mailto:adenikeadekola2017@gmail.com">Email</a>
+            <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=adenikeadekola2017@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  Email
+</a>
             <a href="https://github.com/Adekolaadenike" target="_blank" rel="noreferrer">GitHub</a>
             <a href="#top">Back to top ↑</a>
           </div>
