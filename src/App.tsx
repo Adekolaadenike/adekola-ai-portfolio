@@ -108,10 +108,14 @@ export default function Home() {
             <a href="#approach">Approach</a>
             <a href="#about">About</a>
           </div>
-
-          <a className="nav-cta" href="mailto:adenikeadekola2017@gmail.com">
-            Let&apos;s talk <ArrowUpRight size={15} aria-hidden="true" />
-          </a>
+<a
+  className="nav-cta"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=adenikeadekola2017@gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  Let&apos;s talk <ArrowUpRight size={15} aria-hidden="true" />
+</a>
         </div>
       </nav>
 
